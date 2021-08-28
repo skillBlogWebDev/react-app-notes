@@ -38,7 +38,7 @@ code {
 }
 
 .note-enter-active {
-  animation: note .8s ease-in forwards;
+  animation: note .8s ease-in alternate-reverse;
 }
 
 .note-exit-active {
